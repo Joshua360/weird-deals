@@ -1,0 +1,61 @@
+{
+    "products": [
+        {
+            "name":"A human finger",
+            "price": "$15.00",
+            "description":"That's right: you can buy human fingers on Amazon! The perfect gift for the science teacher in your life—or the kid you need to start hiding the scissors from.",
+            "features":[
+                "5 simulation bloody fingers props,made of soft plastic.",
+                "Simulation design,flesh peach colored with blood and bone.",
+                "The dimensions are shown in the figure."
+            ],
+            "image":"https://images-na.ssl-images-amazon.com/images/I/51R2fsViweL._SL1001_.jpg",
+            "buy" : "https://www.amazon.com/AKOAK-Severed-Chopped-Halloween-Decorations/dp/B01M0J45M7/ref=rtpb_6?pd_rd_w=qvCRm&pf_rd_p=be844577-fee7-4bbc-8dda-083e56cc6f0d&pf_rd_r=4W16V5DGR7ZDR2PPM176&pd_rd_r=286402fc-ab77-4041-874c-39ead0c32a0e&pd_rd_wg=mO6aS&pd_rd_i=B01M0J45M7&psc=1"
+        },
+        {
+            "name":"Bacon Scented Mustache",
+            "price": "$4.85",
+            "description":"Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
+            "features":[
+                "Like some weird, macho mad scientist, we took the two most masculine things we could think of (mustaches and bacon) and mixed them into one super product",
+                "This carded 4 (10.2 cm) wide mustache with adhesive backing is made of lifelike synthetic hair and smells like bacon. ",
+                "The perfect thing to wear while woodworking, fishing or internalizing your emotions"
+            ],
+            "image":"https://images-na.ssl-images-amazon.com/images/I/71xMxPuLs6L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "buy":"https://www.amazon.com/Archie-McPhee-Accoutrements-Scented-Mustache/dp/B00FHNI3X6/ref=sr_1_1?crid=ZBSMEZH3JOWF&dchild=1&keywords=bacon+scented+mustache&qid=1617945178&sprefix=bacon+scented+mu%2Caps%2C406&sr=8-1"
+        },
+        {
+            "name":"Hagao Fake Garlic",
+            "price": "$8.99",
+            "description":"WIDELY USE: Fake garlic good for kitchen, table, pub ornaments, enlighten your fruit plate bowl, wedding, Mother’s day, Valentine’s day, Christmas, birthday party decorations, supermarket display, children education tools, painting props, photography prop.",
+            "features":[
+                "SPECIFICATION: Size: length about 2.2“, each garlic diameter 2.2”, weight about 0.4 oz/pc; material: plastic.",
+                "SPECIAL STATUS: Mature design, white, including 6 fake garlics. Enough quantity provide for you to play"
+            ],
+            "image":"https://images-na.ssl-images-amazon.com/images/I/6176AnTHzSL._AC_SL1000_.jpg",
+            "buy":"https://www.amazon.com/DLUcraft-Artificial-Vegetable-Simulation-Decoration/dp/B07F148V31/ref=sr_1_1?dchild=1&keywords=hagao+fake+garlic&qid=1617945227&sr=8-1"
+        },
+        {
+            "name":"AstroAI Mini Fridge",
+            "price": "$39.09",
+            "description":"Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips",
+            "features":[
+                "ECO-FRIENDLY ENGINEERING: Semiconductor refrigeration chip is freon-free and environmentally friendly; Quiet technology keeps sound at a minimum ( 25dB ), so you can rest easy",
+                "CE, FCC, ETL, RoHS certified; 3 Year Warranty provided by AstroAI - if you have any dissatisfaction with your product quality, please reach out to us immediately"
+            ],
+            "image":"https://images-na.ssl-images-amazon.com/images/I/61SX1DEzK4L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "buy":"https://www.amazon.com/AstroAI-Portable-Powered-Thermoelectric-Offices/dp/B07S2RBCT5/ref=sr_1_3?dchild=1&keywords=desktop+fridge&qid=1617945264&sr=8-3"
+        },
+        {
+            "name":"Baby Mop",
+            "price": "$20.99-$24.99",
+            "description":"Turn your baby into the cutest mop with this baby romper outfit! Your baby will mop the floor while crawling.",
+            "features":[
+                "Made of high quality cotton. Machine-washable, soft and comfortable. The mop uses ultra absorbent materials designed to clean and shine your floor.",
+                "Teaches your baby early in life about the importance of a strong work ethic!"
+            ],
+            "image":"https://images-na.ssl-images-amazon.com/images/I/71L%2BqJsRZGL._AC_UY500_.jpg",
+            "buy": "https://www.amazon.com/Cute-Baby-Mop-Onesie-Functional/dp/B08LGKZ3B8/ref=sr_1_1?dchild=1&keywords=baby+mop&qid=1617945298&sr=8-1"
+        }
+    ]
+}
