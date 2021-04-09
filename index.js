@@ -1,11 +1,15 @@
+//I used fetch to fetch the json data from ./data folder
 fetch('/data/products.json')
     .then(function(response){
         return response.json();
 
     }).then(function(obj){
 
+      //The code loops through the products array collecting valuable information on each product
         for(let i=0; i<obj.products.length; i+=1){
             console.log(obj.products[i].name);
+
+            //each time through the array, the results are mapped in this HTML mockup
             document.querySelector(".main-content").innerHTML += ` 
             
 
