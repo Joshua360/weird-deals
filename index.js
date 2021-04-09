@@ -1,5 +1,5 @@
 //I used fetch to fetch the json data from ./data folder
-fetch('./weird-deals/data/products.json')
+fetch('./data/products.json')
     .then(function(response){
         return response.json();
 
